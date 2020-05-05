@@ -8,7 +8,7 @@ change two tensorflow projects code to paddlepadle code
 
   >**author:** *chengstone*
   
-  >>**project 1 name :**cifa100
+  >>**project 1 name :** cifa100
   
   >>>**url:** https://github.com/chengstone/CIFAR100_tutorial
   
