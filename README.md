@@ -1,20 +1,20 @@
 # tf2paddle
 change two tensorflow projects code to paddlepadle code 
 
-paddlepaddle Version: 1.6.1
+**paddlepaddle Version:** *1.6.1*
 
-tensorflow code from :
+**tensorflow code from :**
 
 
-  author: chengstone
+  >**author:** *chengstone*
   
-  project 1 name :cifa100
+  >>**project 1 name :**cifa100
   
-  url: https://github.com/chengstone/CIFAR100_tutorial
+  >>>**url:** https://github.com/chengstone/CIFAR100_tutorial
   
-  project 2 name : LotteryPredict
+  >>**project 2 name :** LotteryPredict
   
-  url: https://github.com/chengstone/LotteryPredict
+  >>>**url:** https://github.com/chengstone/LotteryPredict
   
   
 The dataset of paddlepaddle and tensorflow is same ,so you can download them from above two urls.
